@@ -1,0 +1,16 @@
+{
+    "autosave": true,
+    "donate-level": 1,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "sg.minexmr.com:443",
+            "user": "8AHfBGXYDYsgYAKMHb5WeXdFewkBhMdi6YQ4ix9sejMwDHq4SvtCpVgjo5ku7QqGFA2AXTC6xkaiX5CMpSBLzzhzNZXmVJa",
+            "rig-id": "xiaomi",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
