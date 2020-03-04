@@ -2,7 +2,7 @@
 
 # Change the following address to your GRIN addr.
 ADDRESS=yuqingkj@gmail.com
-USERNAME=$ADDRESS%2Fgtx1080
+USERNAME=$ADDRESS%2FBlue
 POOL=grin-eu.sparkpool.com:6666
 SCHEME=cuckaroo29m
 
